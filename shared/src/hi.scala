@@ -1,0 +1,1 @@
+@main def hi = println("")
